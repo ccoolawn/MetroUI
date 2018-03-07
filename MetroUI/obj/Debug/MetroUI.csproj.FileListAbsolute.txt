@@ -1,0 +1,15 @@
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\MetroUI\MetroUI\bin\Debug\MetroUI.exe.config
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\MetroUI\MetroUI\bin\Debug\MetroUI.exe
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\MetroUI\MetroUI\bin\Debug\MetroUI.pdb
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\MetroUI\MetroUI\bin\Debug\MetroFramework.Design.dll
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\MetroUI\MetroUI\bin\Debug\MetroFramework.dll
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\MetroUI\MetroUI\bin\Debug\MetroFramework.Fonts.dll
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\MetroUI\MetroUI\obj\Debug\MetroUI.csprojResolveAssemblyReference.cache
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\MetroUI\MetroUI\obj\Debug\MetroUI.Properties.Resources.resources
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\MetroUI\MetroUI\obj\Debug\MetroUI.csproj.GenerateResource.Cache
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\MetroUI\MetroUI\obj\Debug\MetroUI.csproj.CoreCompileInputs.cache
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\MetroUI\MetroUI\obj\Debug\MetroUI.exe
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\MetroUI\MetroUI\obj\Debug\MetroUI.pdb
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\MetroUI\MetroUI\obj\Debug\MetroUI.Form1.resources
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\MetroUI\MetroUI\obj\Debug\MetroUI.csproj.CopyComplete
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\MetroUI\MetroUI\obj\Debug\MetroUI.ChildForm.resources
